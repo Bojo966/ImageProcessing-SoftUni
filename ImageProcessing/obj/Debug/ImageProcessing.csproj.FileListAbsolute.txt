@@ -1,0 +1,5 @@
+C:\Users\stil2_000\Desktop\Upcomming lectures\Train the trainers\FiletersTheRealDeal\Filters\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\stil2_000\Desktop\Upcomming lectures\Train the trainers\FiletersTheRealDeal\Filters\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\stil2_000\Desktop\Upcomming lectures\Train the trainers\FiletersTheRealDeal\Filters\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\stil2_000\Desktop\Upcomming lectures\Train the trainers\FiletersTheRealDeal\Filters\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\stil2_000\Desktop\Upcomming lectures\Train the trainers\FiletersTheRealDeal\Filters\ImageProcessing\obj\Debug\ImageProcessing.pdb
